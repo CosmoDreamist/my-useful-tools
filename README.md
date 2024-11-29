@@ -9,7 +9,7 @@
 ## 学习网站
 
 ### [Wolfram Alpha](https://www.wolframalpha.com/)
-- **简介**：理科计算辅助网站。
+- **用途**：理科计算辅助
 
 
 
